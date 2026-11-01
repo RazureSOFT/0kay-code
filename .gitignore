@@ -19,3 +19,8 @@ stores/snapcraft/insider/*.snap
 stores/snapcraft/stable/*.snap
 font-size/node_modules/
 font-size/generate-css.js
+# Upstream checkout, fetched by get_repo.sh — never committed.
+/vscode/
+/node_modules/
+/out/
+/dist/
