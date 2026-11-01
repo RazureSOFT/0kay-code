@@ -3,6 +3,7 @@
   "nameLong": "0KAY IDE",
   "applicationName": "0kay-ide",
   "dataFolderName": ".0kay-ide",
+  "sharedDataFolderName": ".0kay-ide-shared",
   "urlProtocol": "0kay-ide",
   "win32AppUserModelId": "0KAY.IDE",
   "win32DirName": "0KAY IDE",
@@ -15,5 +16,10 @@
   "serverDataFolderName": ".0kay-ide-server",
   "darwinBundleIdentifier": "com.0kay.ide",
   "linuxIconName": "0kay-ide",
-  "reportIssueUrl": "https://github.com/0kay/0kay-code/issues"
+  "reportIssueUrl": "https://github.com/0kay/0kay-code/issues",
+  "licenseName": "MIT",
+  "licenseUrl": "https://github.com/0kay/0kay-code/blob/main/LICENSE",
+  "serverLicenseUrl": "https://github.com/0kay/0kay-code/blob/main/LICENSE",
+  "updateUrl": "",
+  "extensionsGallery": {}
 }
