@@ -1,0 +1,19 @@
+{
+  "nameShort": "0KAY IDE",
+  "nameLong": "0KAY IDE",
+  "applicationName": "0kay-ide",
+  "dataFolderName": ".0kay-ide",
+  "urlProtocol": "0kay-ide",
+  "win32AppUserModelId": "0KAY.IDE",
+  "win32DirName": "0KAY IDE",
+  "win32MutexName": "0kayide",
+  "win32NameVersion": "0KAY IDE",
+  "win32RegValueName": "0KAYIDE",
+  "win32ShellNameShort": "0KAY IDE",
+  "tunnelApplicationName": "0kay-ide-tunnel",
+  "serverApplicationName": "0kay-ide-server",
+  "serverDataFolderName": ".0kay-ide-server",
+  "darwinBundleIdentifier": "com.0kay.ide",
+  "linuxIconName": "0kay-ide",
+  "reportIssueUrl": "https://github.com/0kay/0kay-code/issues"
+}
